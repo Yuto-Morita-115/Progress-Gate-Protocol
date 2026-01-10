@@ -41,6 +41,7 @@ https://github.com/user-attachments/assets/b4ddb355-9060-422d-bf3c-20a9e8c80a11
 3. システム構成 (System Architecture) 
 
 Progress Gateは、LLMの前段に配置される「情報の関所（Gate）」として機能する。 
+
 <img width="393" height="852" alt="iPhone 16 - 61" src="https://github.com/user-attachments/assets/7565fda8-0551-4967-a5aa-c308a4caa784" />
 <img width="393" height="852" alt="iPhone 16 - 62" src="https://github.com/user-attachments/assets/5584f0d7-4afc-4590-bbed-fd3afdc49740" />
 
