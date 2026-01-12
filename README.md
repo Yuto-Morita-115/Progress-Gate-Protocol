@@ -152,5 +152,6 @@ Concept Verification:[figmaプロトタイプを体験する](https://www.figma.
 Demo Video:  [Coming soon on X (Twitter)] [@eoqqvhkmur42233](https://x.com/@eoqqvhkmur42233)
 
 Author:森田 悠斗 （([@eoqqvhkmur42233](https://x.com/@eoqqvhkmur42233))）] 
+[Speaker Deck](https://speakerdeck.com/moritayuto/progress-gate-aino-jiao-esugi-wofang-guci-shi-dai-ragzhi-yu-purotokoru)
 
 Feel free to contact me for collaborations or feedback! （コラボレーションやフィードバックはお気軽に！） 
