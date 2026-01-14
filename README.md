@@ -1,6 +1,7 @@
 技術仕様書: Progress Gate (プログレスゲート) 
 
 副題：ユーザー進捗同期型 動的ナレッジ制御アーキテクチャ  
+　　　This protocol defines a design principle for synchronizing learning progress and information access in AI-assisted education systems.
 
 Document ID: PG-SPEC-001  
 
